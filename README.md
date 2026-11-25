@@ -1,2 +1,2 @@
 # iloveanimeboobies.github.io
-[Test Site](/test)
+[Test Site](https://iloveanimeboobies.github.io/test)
