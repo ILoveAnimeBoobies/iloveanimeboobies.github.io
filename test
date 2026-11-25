@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>test</title>
+        <style>
+            body {font-family: Arial, Helvetica, sans-serif;}
+            body {background-color: black;}
+            h1 {color: white;}
+            p {color: white;}
+            a:link {
+                color: gray;
+                background-color: transparent;
+                text-decoration: none;
+            }
+            a:visited {
+                color: gray;
+                background-color: transparent;
+                text-decoration: none;
+            }
+            a:hover {
+                color: white;
+                background-color: transparent;
+                text-decoration: none;
+            }
+        </style>
+    </head>
+    <body>
+         <h1 style="text-align: center;">
+            <b>AA</b>
+        </h1>
+        <p style="text-align: center;"><b>
+            <a href="temp" target="_parent">Main site</a>
+            </b></p>
+            <p><b>Made by 
+                <a href="https://github.com/ILoveAnimeBoobies" style="color: lightskyblue;text-decoration: underline;">jar</a>
+            </b></p>
+    </body>
+</html>
