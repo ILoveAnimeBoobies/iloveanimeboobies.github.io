@@ -1,1 +1,1 @@
-[My Test Site](/test)
+[My Test Site](/test.html)
